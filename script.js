@@ -8,5 +8,5 @@ function testNum(num) {
     })
 }
 
-console.log(testNum(90));
-console.log(testNum(30));
+console.log(testNum(59));
+console.log(testNum(15));
