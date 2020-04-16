@@ -1,9 +1,9 @@
 function testNum(num) {
     return new Promise(function (resolve, reject) {
         if (num > 50){
-            resolve(num + ' is greater than 50')
+            resolve(num + " is more than 50 man")
         } else {
-            resolve(num + ' is lesser than 50')
+            resolve(num + " is less than 50 my guy")
         }
     })
 }
